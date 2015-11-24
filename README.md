@@ -1,5 +1,5 @@
 # Kryha
-Java implementation of Kryha cipher machine
+Implementación de la máquina de cifrado Kryha
 
 En la carpeta **dist** se encuentra una versión compilada del programa, para ejecutarla usamos:
 
@@ -11,5 +11,6 @@ En la carpeta **source** se encuentra el código, para compilarlo usamos:
 
 Para ejecutar nuestro archivo compilado:
 
-* cd .. *
-* java kryha.Kryha *
+*cd ..*
+
+*java kryha.Kryha*
